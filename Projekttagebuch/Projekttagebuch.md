@@ -42,7 +42,16 @@
 * Bauen der Lenkradhalterung
 
 **13.01.17 @Schule**
-* Reichweite testen
+* Reichweite & Empfang der Kamera testen
 
 **20.01.17 @Schule**
+*Christoph war krank Projekt konnte nicht fortgesetzt werden
+
+**30.01.17 @Julian**
+*Smoothing verbessert (Lenkrad & Gaspedal) 
+*Graphen zur genaueren Analyse der Werte erstellt
+
+**03.02.17 @Schule**
 *
+
+
