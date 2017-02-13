@@ -45,4 +45,13 @@
 * Reichweite testen
 
 **20.01.17 @Schule**
-*
+*Christoph war krank Projekt konnte nicht fortgesetzt werden
+
+**30.01.17 @Julian**
+*Smoothing verbessert (Lenkrad & Gaspedal) 
+*Graphen zu den Werten erstellt zur genaueren Analyse
+
+**03.02.17 @Schule**
+
+
+
