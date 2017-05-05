@@ -61,7 +61,7 @@
 * nix, nada, + Englisch Vokabeln
 
 **30.01.17 @Julian**
-* 
+* Arduino-Code verbessert 
 
 **17.02.17 @Schule**
 * Erweitern und Aktualisieren der projekttagebuch Einträge
